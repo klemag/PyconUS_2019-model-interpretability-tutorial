@@ -9,3 +9,4 @@ wget https://raw.githubusercontent.com/klemag/PyconUS_2019-model-interpretabilit
 mv bank.csv data
 wget https://raw.githubusercontent.com/klemag/PyconUS_2019-model-interpretability-tutorial/master/data/toucan.jpg
 mv toucan.jpg data
+wget https://raw.githubusercontent.com/klemag/PyconUS_2019-model-interpretability-tutorial/master/helpers.py
