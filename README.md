@@ -2,6 +2,10 @@
 
 Content for the Model Interpretability Tutorial at Pycon US 2019
 
+## Slides
+
+Available [here](https://speakerdeck.com/klemag/pycon-2019-introduction-to-model-interpretability-in-python)
+
 ## Setup instructions
 
 ### On your machine
